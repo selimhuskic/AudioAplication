@@ -1,0 +1,14 @@
+C:\Users\selim\source\repos\AudioApp\AudioApp\bin\Debug\AudioApp.exe.config
+C:\Users\selim\source\repos\AudioApp\AudioApp\bin\Debug\AudioApp.exe
+C:\Users\selim\source\repos\AudioApp\AudioApp\bin\Debug\AudioApp.pdb
+C:\Users\selim\source\repos\AudioApp\AudioApp\obj\Debug\AudioApp.csprojResolveAssemblyReference.cache
+C:\Users\selim\source\repos\AudioApp\AudioApp\obj\Debug\AudioApp.Form1.resources
+C:\Users\selim\source\repos\AudioApp\AudioApp\obj\Debug\AudioApp.Properties.Resources.resources
+C:\Users\selim\source\repos\AudioApp\AudioApp\obj\Debug\AudioApp.csproj.GenerateResource.Cache
+C:\Users\selim\source\repos\AudioApp\AudioApp\obj\Debug\AudioApp.csproj.CoreCompileInputs.cache
+C:\Users\selim\source\repos\AudioApp\AudioApp\obj\Debug\AudioApp.exe
+C:\Users\selim\source\repos\AudioApp\AudioApp\obj\Debug\AudioApp.pdb
+C:\Users\selim\source\repos\AudioApp\AudioApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\selim\source\repos\AudioApp\AudioApp\obj\Debug\AudioApp.csproj.ResolveComReference.cache
+C:\Users\selim\source\repos\AudioApp\AudioApp\bin\Debug\NAudio.dll
+C:\Users\selim\source\repos\AudioApp\AudioApp\bin\Debug\NAudio.xml
